@@ -26,7 +26,7 @@ alurnya:
 - transisi state berdasarkan action:
   > MOVEMENT: hitung gerakan, jika >=3 pindah ke SHOOTING
   > CALCULATION: error jika tidak ada moveCount, jika moveCount >0 pindah ke IDLE
-  > ERROR: akan menjadi STOPPED jika terjadi 3
+  > ERROR: akan menjadi STOPPED jika terjadi 3 error
 
 # KONSEP OOP YANG DITERAPKAN
 
