@@ -1,4 +1,4 @@
-#include "FSM.hpp"
+#include "fsm.hpp"
 #include <cstdint>
 #include <iostream>
 #include <thread>
